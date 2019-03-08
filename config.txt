@@ -1,0 +1,6 @@
+owner=417494861693059077
+prefix=1
+game=Gamer's Offic | 1play
+stayinchannel=true
+songinstatus=false
+token=NTUzMjY0NzQ3MDIyMTIzMDA4.D2QRvw.OeMua68OidNg9fZA7w_6rEsvf-A
