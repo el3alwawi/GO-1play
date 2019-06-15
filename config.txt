@@ -1,6 +1,6 @@
-owner=497364165384470529
+owner=556833562549026816
 prefix=1
 game=Gamer's Offic | 1play
 stayinchannel=true
 songinstatus=false
-token=NTU3MDQwMzQ1Nzg4MTg2NjI1.D3CgRw.88FtwepX8tlOzQkfUIu-aW_8lTk
+token=NTU3MDQwMzQ1Nzg4MTg2NjI1.XQUXEw.BYZpvVRnzbiZ6ekawIUg1oBE3Bw
