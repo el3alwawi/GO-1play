@@ -3,4 +3,4 @@ prefix=1
 game=Gamer's Offic | 1play
 stayinchannel=true
 songinstatus=false
-token=ODUwMDY3NjQyMjgyMDE2NzY4.YLkVLw.WCu__aLP4VdQlbLSvZIClhow4mQ
+token=ODUwMDY3NjQyMjgyMDE2NzY4.YLkVLw.m-YKdqDhNH1b7t7CaZsDfV1WA7c
