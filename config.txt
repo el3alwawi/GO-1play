@@ -1,4 +1,4 @@
-owner=556833562549026816
+owner=530074942214242314
 prefix=1
 game=Gamer's Offic | 1play
 stayinchannel=true
